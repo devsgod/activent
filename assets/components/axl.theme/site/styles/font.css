@@ -1,0 +1,14 @@
+@font-face {
+  font-family: opensans-regular;
+  src:url("../fonts/open-sans/OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: poppins-medium;
+  src:url("../fonts/poppins/Poppins-Medium.otf");
+}
+
+@font-face {
+  font-family: poppins-semibold;
+  src:url("../fonts/poppins/Poppins-SemiBold.otf");
+}
